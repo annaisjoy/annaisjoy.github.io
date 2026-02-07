@@ -1,8 +1,12 @@
+---
+layout: default
+---
+
 # 👋 Hi, I'm Anna Le
 
 **Final Year Computer Science Student | Software Engineer | Food Influencer**
 
-I am a **BSc Honours Computer Science** student at the **University of Calgary** (Software Engineering Concentration). I maintain a **3.67/4.0 GPA** and have been recognized on the **Dean's List** for five consecutive semesters. I am passionate about cloud architecture, identity security, and building products that make a tangible impact.
+I am a **BSc Honours Computer Science** student at the **University of Calgary** with a focus on Software Engineering. I maintain a **3.67/4.0 GPA** and have been recognized on the **Dean's List** for five consecutive semesters. I specialize in cloud infrastructure and building scalable full-stack applications.
 
 [LinkedIn](https://linkedin.com/in/phuong-lel) | [GitHub](https://github.com/annaisjoy) | [Email](mailto:annale3898@gmail.com)
 
@@ -10,26 +14,37 @@ I am a **BSc Honours Computer Science** student at the **University of Calgary**
 
 ### 🛠 Technical Experience
 
-**Amazon Web Services (AWS)** | *Software Development Engineer Intern* | *May 2025 – Aug 2025*
-* **Fleet-Wide Tracking**: Designed and implemented a commit tracking system for **RDS Host Manager**, visualizing deployment status across **800K+ production hosts** across 45+ regions.
-* **Database Optimization**: Enhanced **DynamoDB** schemas with Global Secondary Indexes (GSIs) and executed production backfills for 500+ release entries with zero downtime.
-* **Performance Engineering**: Engineered a Java/Spring and React/TypeScript analyzer that reduced manual verification time from **15 minutes to seconds** through parallel processing.
+<div class="card">
+<strong>Amazon Web Services (AWS)</strong> | <em>SDE Intern (Inclined to Hire)</em> | 2025
+<ul>
+  <li>Designed a fleet-wide commit tracking system for <strong>RDS Host Manager</strong>, visualizing deployment status across <strong>800K+ production hosts</strong>.</li>
+  <li>Optimized <strong>DynamoDB</strong> schemas with Global Secondary Indexes and executed production backfills with zero downtime.</li>
+  <li>Reduced manual verification time from 15 minutes to seconds using <strong>Java/Spring</strong> and <strong>React</strong>.</li>
+</ul>
+</div>
 
-**Alberta Energy Regulator (AER)** | *Identity Developer Intern* | *May 2024 – Apr 2025*
-* **Workflow Automation**: Architected a full-scale onboarding/offboarding workflow using **Azure Automation**, improving efficiency by **80%** (15 days to 3 days).
-* **Data Integrity**: Engineered a JavaScript ETL pipeline on the Aquera platform to synchronize **1K+ monthly HR records** between Workday and MS SQL.
-* **Identity Security**: Secured 1,200+ identities by leading an Azure MFA migration and reducing audit findings by 50% through standardized RBAC.
+<div class="card">
+<strong>Alberta Energy Regulator (AER)</strong> | <em>Identity Developer Intern</em> | 2024–2025
+<ul>
+  <li>Improved onboarding efficiency by <strong>80%</strong> using Azure Automation and PowerShell.</li>
+  <li>Engineered JavaScript ETL pipelines to synchronize <strong>1K+ monthly HR records</strong>.</li>
+  <li>Secured 1,200+ identities via MFA migration and RBAC initiatives.</li>
+</ul>
+</div>
 
 ---
 
 ### 🚀 Key Projects
 
-**TomorrowGo Travel Planner** | *TypeScript, React, Docker, Firebase*
-* Led a 4-developer team to build a real-time travel platform featuring **Haversine-based** proximity suggestions for optimized trip planning.
-* Architected real-time collaboration through Firestore listeners managing parallel trip voting and live itinerary updates.
+<div class="card">
+<strong>TomorrowGo Travel Planner</strong>
+<br>Led a 4-developer team to build a real-time group travel platform using <strong>TypeScript, React, and Firebase</strong>. Implemented proximity suggestions using <strong>Haversine calculations</strong>.
+</div>
 
-**Traffic Collision Predictor** | *Apache Spark, Python, Scikit-learn*
-* Developed machine learning models in **PySpark** to analyze road safety datasets, achieving a strong **0.969 AUC**.
+<div class="card">
+<strong>Traffic Collision Predictor</strong>
+<br>Built machine learning models using <strong>PySpark MLlib</strong> and Scikit-learn, achieving a <strong>0.969 AUC</strong> for road safety analysis.
+</div>
 
 ---
 
@@ -47,9 +62,6 @@ When I'm not in the terminal, I'm likely exploring the intersection of food and 
 
 ### 🧰 Technical Toolkit
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Java, Python, C/C++, JavaScript/TypeScript, PowerShell |
-| **Cloud/DevOps** | AWS (RDS, DynamoDB, Lambda), Azure, Docker, Jenkins, CI/CD |
-| **Frameworks** | Spring Boot, React, Express.js, Node.js, Tailwind CSS |
-| **Data/ML** | MySQL, NoSQL, PySpark MLlib, Scikit-learn, TensorFlow |
+<span class="skill-tag">Java</span> <span class="skill-tag">Python</span> <span class="skill-tag">TypeScript</span> <span class="skill-tag">C/C++</span>
+<span class="skill-tag">AWS (Lambda, RDS, DynamoDB)</span> <span class="skill-tag">Azure</span> <span class="skill-tag">Docker</span> <span class="skill-tag">Spring Boot</span>
+<span class="skill-tag">PySpark</span> <span class="skill-tag">Scikit-learn</span> <span class="skill-tag">MySQL</span> <span class="skill-tag">React</span>
