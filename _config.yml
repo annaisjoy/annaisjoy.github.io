@@ -1,15 +1,16 @@
-# Site Settings
-theme: jekyll-theme-minimal
 title: Anna Le
-description: >-
-  BSc Honours Computer Science Student at the University of Calgary.
-  Software Development Engineer Intern (AWS) & Identity Developer.
-  Specializing in Cloud Security, Full-Stack Development, and AI.
-
-# Contact Information
 email: annale3898@gmail.com
-linkedin: https://linkedin.com/in/phuong-lel
+description: >-
+  BSc Honours Computer Science student at UCalgary. 
+  Former SDE Intern at AWS & Identity Developer at AER.
+baseurl: "" 
+url: "https://annaisjoy.github.io"
+github_username: annaisjoy
 
-# Theme Settings
-show_downloads: true
-logo: # You can add a path to a profile picture here (e.g., /assets/img/profile.png)
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.md
