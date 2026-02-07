@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Anna (Phuong) Le
-
 **Final Year CS Student @ UCalgary | Former AWS SDE Intern | Food Influencer**
 
 I am a software engineer focused on cloud infrastructure and full-stack development. I recently completed an SDE internship at **AWS** where I was **Inclined to Hire**.
