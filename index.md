@@ -5,7 +5,7 @@ title: Home
 
 **Final Year Computer Science Student | Software Engineer | Food Influencer**
 
-[cite_start]I am a **BSc Honours Computer Science** student at the **University of Calgary** with a Software Engineering Concentration[cite: 4, 5]. [cite_start]I maintain a **3.67/4.0 GPA** and have earned a spot on the **Dean's List** for five consecutive semesters[cite: 6, 9]. I specialize in cloud infrastructure and building scalable full-stack applications.
+I am a **BSc Honours Computer Science** student at the **University of Calgary** with a Software Engineering Concentration[cite: 4, 5]. [cite_start]I maintain a **3.67/4.0 GPA** and have earned a spot on the **Dean's List** for five consecutive semesters. I specialize in cloud infrastructure and building scalable full-stack applications.
 
 [LinkedIn](https://linkedin.com/in/phuong-lel) | [GitHub](https://github.com/annaisjoy) | [Email](mailto:annale3898@gmail.com)
 
