@@ -1,16 +1,8 @@
 title: Anna Le
-email: annale3898@gmail.com
-description: >-
-  BSc Honours Computer Science student at UCalgary. 
-  Former SDE Intern at AWS & Identity Developer at AER.
-baseurl: "" 
-url: "https://annaisjoy.github.io"
 github_username: annaisjoy
-
-# Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+
+custom_css: /assets/css/style.css
 
 header_pages:
   - index.md
