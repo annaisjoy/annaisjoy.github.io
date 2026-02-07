@@ -6,7 +6,7 @@ I am a software engineer focused on cloud infrastructure and full-stack developm
 
 ### 💻 Technical Highlights
 - **AWS SDE Intern**: Built fleet-wide commit tracking for **800K+ hosts** and optimized **DynamoDB** for zero-downtime backfills.
-- **AER Identity Intern**: Improved onboarding efficiency by **80%** using **Azure Automation** and secured 1,200+ identities.
+- **AER Identity Intern**: Improved onboarding efficiency by **80%** using **Azure Automation**.
 - **Projects**: Built a real-time travel planner (**TomorrowGo**) and an ML-based traffic predictor (**PySpark**).
 
 ### 🎨 Personality & Interests
